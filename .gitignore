@@ -1,0 +1,18 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Datos Confidenciales (Archivo Original de Producción)
+PRODUCCION.xlsx
+*.xlsx
+*.xls
+*.csv
+
+# Archivos Generados (Opcional, si se desea no versionar el reporte)
+# reporte_reabastecimiento.html
